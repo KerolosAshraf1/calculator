@@ -1,0 +1,30 @@
+C:\Users\Lenovo\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Lenovo\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Lenovo\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Lenovo\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+G:\calculator\calculator\bin\Debug\calculator.exe.config
+G:\calculator\calculator\bin\Debug\calculator.exe
+G:\calculator\calculator\bin\Debug\calculator.pdb
+G:\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+G:\calculator\calculator\obj\Debug\calculator.Form1.resources
+G:\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+G:\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+G:\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+G:\calculator\calculator\obj\Debug\calculator.exe
+G:\calculator\calculator\obj\Debug\calculator.pdb
+D:\calculator kerolos\calculator\bin\Debug\calculator.exe.config
+D:\calculator kerolos\calculator\bin\Debug\calculator.exe
+D:\calculator kerolos\calculator\bin\Debug\calculator.pdb
+D:\calculator kerolos\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\calculator kerolos\calculator\obj\Debug\calculator.Form1.resources
+D:\calculator kerolos\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\calculator kerolos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\calculator kerolos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\calculator kerolos\calculator\obj\Debug\calculator.exe
+D:\calculator kerolos\calculator\obj\Debug\calculator.pdb
